@@ -3,4 +3,4 @@
 states.</p>
 <p>Written in vanilla Javascript.</p>
 <h1>Preview</h1>
-![Demo](https://github.com/amalTash/CISC3140/blob/master/assignment11/capture.gif)
+<img src="https://github.com/amalTash/CISC3140/blob/master/assignment11/capture.gif" />
