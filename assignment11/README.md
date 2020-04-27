@@ -3,4 +3,4 @@
 states.</p>
 <p>Written in vanilla Javascript.</p>
 <h1>Preview</h1>
-![](capture.gif)
+![Demo](capture.gif)
